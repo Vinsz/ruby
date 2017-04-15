@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :lista
   devise_for :users
 	get 'contatos/index'
 	root 'contatos#index'
