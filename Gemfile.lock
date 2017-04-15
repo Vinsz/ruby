@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 GIT
   remote: https://github.com/codahale/bcrypt-ruby.git
   revision: 23b0517e20e7ddf2e733c1bcdb22b0b12166f042
   specs:
     bcrypt (3.1.11)
 
+=======
+>>>>>>> e511ac74caf3f93969203d24dc81d3a33a4a6bca
 GEM
   remote: https://rubygems.org/
   specs:
@@ -48,12 +51,15 @@ GEM
     bindex (0.5.0)
     builder (3.2.3)
     concurrent-ruby (1.0.5)
+<<<<<<< HEAD
     devise (4.2.1)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 4.1.0, < 5.1)
       responders
       warden (~> 1.2.3)
+=======
+>>>>>>> e511ac74caf3f93969203d24dc81d3a33a4a6bca
     erubis (2.7.0)
     execjs (2.7.0)
     globalid (0.3.7)
@@ -80,7 +86,10 @@ GEM
     nio4r (2.0.0)
     nokogiri (1.7.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
+<<<<<<< HEAD
     orm_adapter (0.5.0)
+=======
+>>>>>>> e511ac74caf3f93969203d24dc81d3a33a4a6bca
     puma (3.8.2)
     rack (2.0.1)
     rack-test (0.6.3)
@@ -109,8 +118,11 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     rake (12.0.0)
+<<<<<<< HEAD
     responders (2.3.0)
       railties (>= 4.2.0, < 5.1)
+=======
+>>>>>>> e511ac74caf3f93969203d24dc81d3a33a4a6bca
     sass (3.4.23)
     sass-rails (5.0.6)
       railties (>= 4.0.0, < 6)
@@ -138,8 +150,11 @@ GEM
       tzinfo (>= 1.0.0)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
+<<<<<<< HEAD
     warden (1.2.7)
       rack (>= 1.0)
+=======
+>>>>>>> e511ac74caf3f93969203d24dc81d3a33a4a6bca
     web-console (3.5.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
@@ -153,9 +168,13 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
   bcrypt!
   byebug
   devise
+=======
+  byebug
+>>>>>>> e511ac74caf3f93969203d24dc81d3a33a4a6bca
   jbuilder (~> 2.5)
   jquery-rails
   puma (~> 3.0)
